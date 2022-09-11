@@ -3,12 +3,12 @@
 
 /****** Variables (peuvent être utilisées dans tous les fichiers) *******/
 :root {
-    --couleur-texte: #022b50;
-    --couleur-titres-h1-h3: darkmagenta;
-    --couleur-dominante: darkmagenta;
-    --couleur-secondaire: #418cff;
-    --bg-couleur-contraste:#efefef;
-    --box-shadow:5px 5px 5px;
+    $couleur-texte: #022b50;
+    $couleur-titres-h1-h3: rgb(4, 75, 7);
+    $couleur-dominante: rgb(28, 152, 104);
+    $couleur-secondaire: #e8c812;
+    $bg-couleur-contraste:#efefef;
+    $box-shadow:5px 5px 5px;
 }
 
 /*** Clearfix ***/
